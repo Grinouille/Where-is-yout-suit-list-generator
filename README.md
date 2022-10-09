@@ -1,5 +1,5 @@
-# Where-is-yout-suit-list-generator
-a tool to make a giant ''Where is Waldo'' composition variant with artists
+# Where-is-your-suit-list-generator
+A tool to make a giant ''Where is Waldo'' composition variant with artists
 
 For this project:
 https://www.forum-dessine.fr/forum/3188/ou-est-ton-costume
