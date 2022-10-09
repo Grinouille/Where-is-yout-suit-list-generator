@@ -365,7 +365,7 @@ function secretsanta() {
     var str1 = "Bonjour lubien.ne connu sous le nom de ";
     var str2 = ", le personnage en lequel tu devras te déguiser sera ";
     var str3 = ", personnage de ";
-	var str4 = "<br><br>Costumièrement,<br><br> Perline Jolicoeur.";
+    var str4 = "<br><br>Costumièrement,<br><br> Perline Jolicoeur.";
     
     for (var i = 0; i < list.length; i += 1) {
         j = i + 1;
