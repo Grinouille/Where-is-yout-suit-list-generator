@@ -13,4 +13,4 @@ Comme un.e auteurice peut avoir plusieurs personnages inscrit.es, il fallait tro
 Au final ce script servira peut-être pour une autre fois ^^'', le script fonctionne desormais pour cet aspect.
 
 
-En revanche je ne sais pas encore comment faire en sorte d'éviter que deux même auteurices se retrouvent associé,es entre elleux plusieurs fois… Il faudrait pour cela que le d'attribution ait comme une ''memoire'' du tirage
+En revanche je ne sais pas encore comment faire en sorte d'éviter que deux même auteurices se retrouvent associé,es entre elleux plusieurs fois… Il faudrait pour cela que le script d'attribution ait comme une ''memoire'' du tirage
