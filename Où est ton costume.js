@@ -381,7 +381,7 @@ function secretsanta() {
 }
 function verificationtirage(){
     if(list[i].IDauteur = list[j].IDauteur){
-        result="erreur trouvée";
-    } else {result="aucune erreure trouvée"}
+        result="Erreure trouvée";
+    } else {result="Aucune erreure trouvée"}
     }
 console.log (verificationtirage())
